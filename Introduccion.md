@@ -4,7 +4,7 @@ Hacemos un apt install dnsmasq parando antes el bind9 con systemctl stop bin9.se
 
 ![imagen1](/images/imagen1.png)
 
-Añadimos los repositorios de docker
+Tocamos el fichero de dnsmasq
 
 ![imagen2](/images/imagen2.png)
 
