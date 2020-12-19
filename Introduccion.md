@@ -8,7 +8,6 @@ Tocamos el fichero de dnsmasq
 
 ![imagen2](/images/imagen2.png)
 
-Activamos docker-ce
 
 ![imagen3](/images/imagen3.png)
 
