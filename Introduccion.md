@@ -11,8 +11,11 @@ Tocamos el fichero de dnsmasq
 
 ![imagen3](/images/imagen3.png)
 
-Instalamos los paquetes necearios para docker
+Editamos el fichero /etc/hosts
 
 ![imagen4](/images/imagen4.png)
 
+![imagen5](/images/imagen5.png)
+
+![imagen6](/images/imagen6.png)
 
