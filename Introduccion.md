@@ -1,21 +1,3 @@
-# Instalación de DNSMASQ
+# ¿Que es DNSMASQ?
 
-Hacemos un apt install dnsmasq parando antes el bind9 con systemctl stop bin9.servive
-
-![imagen1](/images/imagen1.png)
-
-Tocamos el fichero de dnsmasq
-
-![imagen2](/images/imagen2.png)
-
-
-![imagen3](/images/imagen3.png)
-
-Editamos el fichero /etc/hosts
-
-![imagen4](/images/imagen4.png)
-
-![imagen5](/images/imagen5.png)
-
-![imagen6](/images/imagen6.png)
-
+DNSMASQ es un reenviador de DNS y un servidor DHCP ligero y fácil de configurar. Está diseñado para proporcionar DNS y, opcionalmente, DHCP, a una red pequeña. Puede servir los nombres de máquinas locales que no están en el DNS global. El servidor DHCP se integra con el servidor DNS y permite que las máquinas con direcciones asignadas por DHCP aparezcan en el DNS con nombres configurados en cada host o en un archivo de configuración central. Dnsmasq admite concesiones DHCP estáticas y dinámicas y BOOTP / TFTP para el arranque en red de máquinas sin disco
